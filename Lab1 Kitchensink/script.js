@@ -1,7 +1,9 @@
 //these are my global scope variables
-let fullName = "Peter";
+let fullName = "Peter Sugg";
 const NUM_OF_US_STATES = 50;
+console.log(NUM_OF_US_STATES);
 let sum = 5 + 4;
+console.log(sum);
 let favVeggies = ["Carrots", "Squash", "Potatoes"];
 let nameAgeArray =[
     john = {
