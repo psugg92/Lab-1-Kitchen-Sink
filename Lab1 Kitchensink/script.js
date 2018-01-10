@@ -65,8 +65,10 @@ for(x = 0;x != 3; x++) {
 
 // this is an statement
 if (lengthOfWord % 2 === 0) {
+    console.log(lengthOfWord);
     console.log("The world is nice and even!");
 } else {
+    console.log(lenghtOfWord);
     console.log("The world is an odd place!");
 };
 
